@@ -52,14 +52,14 @@ Adicionar tags caso necessário
 ## Passo 08
 Configurar o ``Grupo de Segurança``
 
-![Image](Images/tela08.jpeg)
+![Image](Images/tela08.jpg)
 
 ---
 
 ## Passo 09
 Checar se está tudo certo e clicar em ``Launch``
 
-![Image](Images/tela09.jpeg)
+![Image](Images/tela09.jpg)
 
 ---
 
